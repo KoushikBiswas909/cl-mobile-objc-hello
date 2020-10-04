@@ -10,6 +10,7 @@ Submit the assignment by submitting a pull request. The steps to do that are as 
 1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
+ Yes!Good job friend.
 
 <!-- Links -->
 [create-repo]: https://help.github.com/articles/create-a-repo
